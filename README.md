@@ -10,8 +10,8 @@ Welcome to my GitHub! I'm passionate about programming and always looking to lea
 
 - 👀 I’m interested in programming.
 - 💻 Currently learning C++ and Java, though Python is my favorite!
-- 🐍 I've covered the basics of Python and plan to deepen my knowledge.
-- 🎯 My goal is to [your goal, e.g., "contribute to impactful open-source projects" or "build innovative tools that make life easier"].
+-  I've learning about QA.
+
 
 ---
 
