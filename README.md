@@ -41,5 +41,7 @@ Welcome to my GitHub! I'm passionate about programming and always looking to lea
 ---
 
 <div align="center">
-    💚 Proudly embracing Python and the color green! 💚
+  
+<img src="https://media1.tenor.com/m/rWkw0t7U1y4AAAAd/mouth-slurp.gif" alt="drawing" width="300"/>
+
 </div>
