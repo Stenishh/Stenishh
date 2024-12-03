@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm passionate about programming and always looking to lea
 ## 🌱 About Me
 
 - 👀 I’m interested in programming.
-- 💻 Currently learning C++ and Java, though Python is my favorite!
+- knowledge in Python, C++ and Java
 -  I've learning about QA, especially Cypress and Postman! And futurually Jmeter!
 -  Currently working in a code for a hospitalar project about "Warning fall" using arduino
 
