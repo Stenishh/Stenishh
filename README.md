@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Fernando Puebla (AKA @Stenishh)
+# 👋 Hi, I’m Fernando Puebla (AKA Stenishh)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Stenishh&color=green)
 
