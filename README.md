@@ -1,66 +1,52 @@
-# 👋 Yo! I'm **Fernando Puebla** — aka **Stenishh**
+![Profile views](https://komarev.com/ghpvc/?username=Stenishh&color=green)More actions
+
+Welcome to my GitHub! I'm passionate about programming and always looking to learn and build something new.
+
+---
+
+## 🌱 About Me
+
+- 👀 I’m interested in programming.
+- knowledge in Python, C++ and Java
+-  I've learning about QA, especially Cypress and Postman! And futurually Jmeter!
+-  Currently working in a code for a hospitalar project about "Warning fall" using arduino
+
+
+---
+
+## 🚀 Technologies and Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  
-![Intro Animation](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stenishh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stenishh&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 🔥 What Drives Me
+## 📫 Connect with Me
 
-💻 Code, tests, and automation — my playground!  
-⚡ Currently crafting a **hospital fall warning system** with Arduino 🤖  
-🧪 Exploring **QA automation** with Cypress, Postman, and soon JMeter 🚀  
-
----
-
-## 🚀 Tech Arsenal
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-
-  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Highlights
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Stenishh&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stenishh&layout=compact&theme=dracula&hide_border=true" width="48%" />
-
-</div>
-
----
-
-## 🌐 Find Me Here
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandopuebla/)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/fernandopuebla/)
 
 ---
 
 <div align="center">
 
-![Tech Animation](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
+<img src="https://media1.tenor.com/m/rWkw0t7U1y4AAAAd/mouth-slurp.gif" alt="drawing" width="300"/>
 
 </div>
