@@ -8,8 +8,7 @@ Welcome to my GitHub! I'm passionate about programming and always looking to lea
 
 - 👀 I’m interested in programming.
 - knowledge in Python, C++ and Java
--  I've learning about QA, especially Cypress and Postman! And futurually Jmeter!
--  Currently working in a code for a hospitalar project about "Warning fall" using arduino
+-  Currently working in a code for a hospitalar project about "Warning fall"
 
 
 ---
