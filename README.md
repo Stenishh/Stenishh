@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=Stenishh&color=green)More actions
+![Profile views](https://komarev.com/ghpvc/?username=Stenishh&color=green)
 
 Welcome to my GitHub! I'm passionate about programming and always looking to learn and build something new.
 
