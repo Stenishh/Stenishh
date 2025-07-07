@@ -70,5 +70,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0R_Os/giphy.gif" alt="Coding GIF" width="350"/>
+ <img src="https://media1.tenor.com/m/rWkw0t7U1y4AAAAd/mouth-slurp.gif" alt="drawing" width="300"/>
 </div>
