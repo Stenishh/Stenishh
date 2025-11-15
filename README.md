@@ -2,7 +2,6 @@
 
 # 👋 Olá! Eu sou o Fernando Puebla
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=AKA+Stenish;Transformando+Café+em+Código;Building+the+Future%2C+One+Commit+at+a+Time;Salvando+Vidas+com+Tecnologia" alt="Typing SVG" /></a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Stenishh&color=00A36C&style=flat-square&label=Visitantes+do+Perfil)
 
