@@ -25,63 +25,103 @@
 
 ---
 
-## 🧙‍♂️ Sobre Este Humano
+## 💫 The Developer Behind The Code
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```python
-class Fernando:
-    def __init__(self):
-        self.username = "Stenish"
-        self.role = "Software Developer"
-        self.location = "Santa Rita do Sapucaí, MG 🇧🇷"
-        self.current_mission = "Healthcare IoT Revolution"
-        self.superpowers = ["Problem Solving", "Clean Code", "Innovation"]
-        self.learning = ["AI/ML", "Advanced IoT", "Cloud Architecture"]
-        
-    def atual_projeto(self):
-        return {
-            "nome": "Sistema de Detecção de Quedas Hospitalares",
-            "stack": ["Python", "Arduino", "IoT Sensors", "Real-time Processing"],
-            "impacto": "Salvar vidas através da tecnologia",
-            "status": "Em desenvolvimento ativo 🔥"
-        }
-        
-    def say_hi(self):
-        print("Obrigado por visitar meu perfil!")
-        print("Vamos criar algo extraordinário juntos? 🚀")
-
-me = Fernando()
-me.say_hi()
-```
-
-### 🎯 Missão Atual
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-#### 🏥 **Sistema Inteligente Anti-Quedas**
-```yaml
-Projeto: Healthcare IoT Platform
-Objetivo: Detectar quedas em tempo real
-Stack: Python + Arduino + Sensores
-Status: 🟢 Active Development
-Impacto: Salvar vidas hospitalares
+### 🎯 Quick Stats
+
+```typescript
+const stenish = {
+  name: "Fernando Puebla",
+  alias: "Stenish",
+  location: "Santa Rita do Sapucaí, MG 🇧🇷",
+  role: "Full Stack Developer",
+  focus: "HealthTech & IoT Innovation",
+  
+  dailyRoutine: {
+    coffee: "☕☕☕",
+    code: "████████████ 100%",
+    bugs: "Fixed > Created",
+    commits: "Meaningful & Clean"
+  },
+  
+  mindset: [
+    "💡 Innovation First",
+    "🎯 Problem Solver",
+    "🚀 Always Learning",
+    "🏥 Tech for Good"
+  ],
+  
+  currentMission: () => {
+    return "Salvando vidas com tecnologia";
+  }
+};
 ```
 
 </td>
-<td width="50%">
+<td width="40%" valign="top">
 
-#### 📚 **Aprendendo Agora**
-- 🧠 Machine Learning & Deep Learning
-- ☁️ Cloud Computing (AWS/Azure)
-- 🔐 Cybersecurity Best Practices
-- 📊 Data Science & Analytics
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+
+<br><br>
+
+### 🎓 Learning Journey
+
+<img src="https://img.shields.io/badge/AI%2FML-Learning-blue?style=flat-square&logo=tensorflow" />
+<img src="https://img.shields.io/badge/Cloud-Exploring-orange?style=flat-square&logo=amazonaws" />
+<img src="https://img.shields.io/badge/Security-Studying-red?style=flat-square&logo=hackaday" />
+<img src="https://img.shields.io/badge/Data%20Science-Growing-green?style=flat-square&logo=pandas" />
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Featured Project: Healthcare Revolution
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/hospital.png" width="64"/>
+<br><br>
+<b>🏥 Fall Detection System</b>
+<br><br>
+<sub>Sistema inteligente de detecção de quedas em ambiente hospitalar usando IoT e sensores de movimento</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/processor.png" width="64"/>
+<br><br>
+<b>⚡ Real-Time Processing</b>
+<br><br>
+<sub>Processamento em tempo real com Python e Arduino para resposta imediata a emergências</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/heart-with-pulse.png" width="64"/>
+<br><br>
+<b>💙 Saving Lives</b>
+<br><br>
+<sub>Tecnologia desenvolvida com propósito: aumentar a segurança dos pacientes</sub>
+</td>
+</tr>
+</table>
+
+**Tech Stack:** `Python` `Arduino` `IoT Sensors` `Real-time Analytics` `MongoDB`
+
+**Status:** <img src="https://img.shields.io/badge/🔥-Active%20Development-success?style=flat-square" />
+
+</div>
 
 ---
 
@@ -176,17 +216,70 @@ Impacto: Salvar vidas hospitalares
 
 ---
 
-## 🎯 2024 Goals Progress
+## 🎯 2024 Mission Progress
 
 <div align="center">
 
-```yaml
-[████████████████████░░] 85% Concluir Sistema Anti-Quedas
-[██████████████░░░░░░░░] 65% Dominar Machine Learning  
-[████████████░░░░░░░░░░] 55% Contribuir Open Source
-[████████████████░░░░░░] 75% Aprender Cloud Computing
-[████████████████████░░] 90% Melhorar Clean Code Skills
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Main Goals
+
+<br>
+
+**Sistema Anti-Quedas Hospitalares**
+<img src="https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=00A36C" />
+<sub>🔥 85% - Fase de testes avançados</sub>
+
+<br><br>
+
+**Dominar Machine Learning & AI**
+<img src="https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=36BCF7" />
+<sub>📚 65% - Estudando Deep Learning</sub>
+
+<br><br>
+
+**Contribuições Open Source**
+<img src="https://geps.dev/progress/55?dangerColor=800000&warningColor=ff9900&successColor=9D4EDD" />
+<sub>🌟 55% - 12 PRs aceitos este ano</sub>
+
+<br><br>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Tech Skills
+
+<br>
+
+**Cloud Computing (AWS/Azure)**
+<img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=FF6B35" />
+<sub>☁️ 75% - Certificações em andamento</sub>
+
+<br><br>
+
+**Clean Code & Best Practices**
+<img src="https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=06FFA5" />
+<sub>✨ 90% - Refatoração constante</sub>
+
+<br><br>
+
+**IoT & Embedded Systems**
+<img src="https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=00D9FF" />
+<sub>⚡ 80% - Projetos em produção</sub>
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+### 📈 Overall Year Progress
+
+<img src="https://geps.dev/progress/75" width="60%" />
+
+**75% Complete** • *Em ritmo acelerado para 2025!* 🚀
 
 </div>
 
