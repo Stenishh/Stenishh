@@ -1,7 +1,7 @@
+````markdown
 <div align="center">
 
 # 👋 Olá! Eu sou o Fernando Puebla
-
 
 ![Profile views](https://komarev.com/ghpvc/?username=Stenishh&color=00A36C&style=flat-square&label=Visitantes+do+Perfil)
 
@@ -9,342 +9,284 @@
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
-║  🚀 Desenvolvedor Full Stack | 🏥 HealthTech Innovator       ║
-║  💡 IoT Enthusiast | 🔬 Problem Solver Extremo               ║
+║  🚀 Trainee Data Engineer | 🏥 HealthTech Innovator           ║
+║  💡 IoT Enthusiast | 🔬 Problem Solver Extremo                ║
 ║                                                               ║
 ║  > const vida = () => {                                       ║
 ║      while(true) {                                            ║
-║        codigo.escrever();                                     ║
+║        dados.processar();                                     ║
 ║        problemas.resolver();                                  ║
 ║        futuro.construir();                                    ║
 ║      }                                                        ║
 ║    };                                                         ║
 ╚═══════════════════════════════════════════════════════════════╝
-```
+````
 
----
+-----
 
-## 💫 The Developer Behind The Code
+## 💫 The Developer Behind The Data
 
-<div align="center">
+\<div align="center"\>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+\<table\>
+\<tr\>
+\<td width="60%" valign="top"\>
 
 ### 🎯 Quick Stats
 
 ```typescript
 const stenish = {
-  name: "Fernando Puebla",
+  name: "Fernando Puebla Stein",
   alias: "Stenish",
   location: "Santa Rita do Sapucaí, MG 🇧🇷",
-  role: "Full Stack Developer",
-  focus: "HealthTech & IoT Innovation",
+  role: "Engenheiro de Dados Trainee",
+  education: "Engenharia de Software @ INATEL",
+  focus: "Data Engineering, HealthTech & IoT",
   
-  dailyRoutine: {
-    coffee: "☕☕☕",
-    code: "████████████ 100%",
-    bugs: "Fixed > Created",
-    commits: "Meaningful & Clean"
-  },
-  
-  mindset: [
-    "💡 Innovation First",
-    "🎯 Problem Solver",
-    "🚀 Always Learning",
-    "🏥 Tech for Good"
+  hobbies: [
+    "🤠 Compositor de Trap Caipira & Forró",
+    "🕺 Acompanhar trends e coreografias",
+    "💪 Treino pesado (movido a muita proteína)"
   ],
   
-  currentMission: () => {
-    return "Salvando vidas com tecnologia";
-  }
+  mindset: [
+    "📊 Data-Driven Decisions",
+    "💡 Innovation First",
+    "🚀 Always Learning",
+    "🏥 Tech for Good"
+  ]
 };
 ```
 
-</td>
-<td width="40%" valign="top">
+\</td\>
+\<td width="40%" valign="top"\>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+\<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/\>
 
 <br><br>
 
 ### 🎓 Learning Journey
 
-<img src="https://img.shields.io/badge/AI%2FML-Learning-blue?style=flat-square&logo=tensorflow" />
-<img src="https://img.shields.io/badge/Cloud-Exploring-orange?style=flat-square&logo=amazonaws" />
-<img src="https://img.shields.io/badge/Security-Studying-red?style=flat-square&logo=hackaday" />
-<img src="https://img.shields.io/badge/Data%20Science-Growing-green?style=flat-square&logo=pandas" />
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Big\_Data-Applying-orange%3Fstyle%3Dflat-square%26logo%3Dapachespark" /\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/AI%252FML-Researching-blue%3Fstyle%3Dflat-square%26logo%3Dtensorflow" /\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/IoT-Developing-red%3Fstyle%3Dflat-square%26logo%3Despressif" /\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Data%2520Engineering-Scaling-green%3Fstyle%3Dflat-square%26logo%3Ddatabricks" /\>
 
-</td>
-</tr>
-</table>
+\</td\>
+\</tr\>
+\</table\>
 
-</div>
+\</div\>
 
----
+-----
 
-<div align="center">
+\<div align="center"\>
 
-### 🚀 Featured Project: Healthcare Revolution
+### 🚀 Featured Projects: Healthcare & Innovation
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/hospital.png" width="64"/>
+\<table\>
+\<tr\>
+\<td align="center" width="50%"\>
+\<img src="https://www.google.com/search?q=https://img.icons8.com/fluency/96/000000/brain.png" width="64"/\>
 <br><br>
-<b>🏥 Fall Detection System</b>
+\<b\>🧬 Modelagem Preditiva (Terapia Hormonal)\</b\>
 <br><br>
-<sub>Sistema inteligente de detecção de quedas em ambiente hospitalar usando IoT e sensores de movimento</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/processor.png" width="64"/>
+\<sub\>Projeto de Iniciação Científica (2026-2027) no eHealth Innovation Center. Focado na aplicação de \<b\>Machine Learning\</b\> para suporte clínico, sob a coordenação e mentoria de especialistas incríveis como a Profa. Rita Elizabeth.\</sub\>
 <br><br>
-<b>⚡ Real-Time Processing</b>
+\<img src="https://img.shields.io/badge/🔬-Research-blue?style=flat-square" /\>
+\</td\>
+\<td align="center" width="50%"\>
+\<img src="https://www.google.com/search?q=https://img.icons8.com/fluency/96/000000/falling-person.png" width="64"/\>
 <br><br>
-<sub>Processamento em tempo real com Python e Arduino para resposta imediata a emergências</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/heart-with-pulse.png" width="64"/>
+\<b\>🏥 Risco de Queda (Wearable IoT)\</b\>
 <br><br>
-<b>💙 Saving Lives</b>
+\<sub\>Sistema de detecção de instabilidades em tempo real desenvolvido em equipe (shoutout para o parceiro Matheus Vieira\!). Utiliza \<b\>ESP32-C3\</b\> e \<b\>MPU6050\</b\>. Testado com sucesso via servidor HTTP local. Rumo à FETIN\!\</sub\>
 <br><br>
-<sub>Tecnologia desenvolvida com propósito: aumentar a segurança dos pacientes</sub>
-</td>
-</tr>
-</table>
+\<img src="https://img.shields.io/badge/🔥-Active%20Development-success?style=flat-square" /\>
+\</td\>
+\</tr\>
+\</table\>
 
-**Tech Stack:** `Python` `Arduino` `IoT Sensors` `Real-time Analytics` `MongoDB`
+\</div\>
 
-**Status:** <img src="https://img.shields.io/badge/🔥-Active%20Development-success?style=flat-square" />
-
-</div>
-
----
+-----
 
 ## 🛠️ Arsenal Tecnológico
 
-<div align="center">
+\<div align="center"\>
 
-### 💻 Core Languages
+### 📊 Data Engineering & Big Data
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,java" />
-</p>
+\<p\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Apache\_Spark-FFFFFF%3Fstyle%3Dfor-the-badge%26logo%3Dapachespark%26logoColor%3DE35A16" alt="Spark"\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Databricks-FF3621%3Fstyle%3Dfor-the-badge%26logo%3Ddatabricks%26logoColor%3Dwhite" alt="Databricks"\>
+\<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,mongodb,mysql,postgres" /\>
+\</p\>
 
-### 🎨 Frontend Development
+### 💻 Fullstack & Core Dev
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+\<p\>
+\<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,react,vite,cpp,java" /\>
+\</p\>
 
-### 🗄️ Database & Storage
+### ⚡ IoT & Hardware Design
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=008CC1" alt="Neo4j">
-</p>
+\<p\>
+\<img src="https://skillicons.dev/icons?i=arduino" /\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/ESP32-E7352C%3Fstyle%3Dfor-the-badge%26logo%3Despressif%26logoColor%3Dwhite" alt="ESP32"\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Fusion\_360-0696D7%3Fstyle%3Dfor-the-badge%26logo%3Dautodesk%26logoColor%3Dwhite" alt="Fusion 360"\>
+\</p\>
 
 ### 🔧 Tools & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman,vscode,docker" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white&labelColor=17202C" alt="Cypress">
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white&labelColor=D22128" alt="JMeter">
-</p>
+\<p\>
+\<img src="https://skillicons.dev/icons?i=git,postman,vscode,docker" /\>
+\</p\>
 
-### ⚡ IoT & Hardware
+\</div\>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
+-----
 
-</div>
+## 🌟 Experiência & Comunidade
 
----
+  - 👨‍🏫 **Professor Voluntário | Inatel Casa Viva:** Compartilhando conhecimento com a comunidade através do ensino de Inglês e lógica de programação em Python.
+  - 📝 **Supervisor de Teste TOEFL (2024):** Experiência em gestão de exames de proficiência, garantindo rigor e organização nas avaliações.
+  - 🗣️ **Idiomas:** Português (Nativo), Inglês (Avançado) e Espanhol (Avançado).
+  - 💡 **Ecossistema:** Entusiasta de empreendedorismo e processos de incubação de Startups.
 
-## 🎮 Coding Activity
-
-<div align="center">
-  
-```text
-🌅 Manhã        ████████░░░░░░░░░░░░░   35.2% 
-🌆 Tarde        ████████████░░░░░░░░░   52.8% 
-🌃 Noite        ████░░░░░░░░░░░░░░░░░   12.0%
-💤 Madrugada    ░░░░░░░░░░░░░░░░░░░░░   00.0%
-```
-
-</div>
-
----
+-----
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+\<div align="center"\>
 
-<table>
-<tr>
-<td width="50%">
+\<table\>
+\<tr\>
+\<td width="50%"\>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Stenishh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&icon_color=00A36C" alt="GitHub Stats"/>
+\<img src="https://github-readme-stats.vercel.app/api?username=Stenishh\&show\_icons=true\&theme=radical\&hide\_border=true\&include\_all\_commits=true\&count\_private=true\&rank\_icon=github\&bg\_color=0D1117\&title\_color=36BCF7\&text\_color=FFFFFF\&icon\_color=00A36C" alt="GitHub Stats"/\>
 
-</td>
-<td width="50%">
+\</td\>
+\<td width="50%"\>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stenishh&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF" alt="Top Languages"/>
+\<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stenishh\&layout=compact\&theme=radical\&hide\_border=true\&langs\_count=8\&bg\_color=0D1117\&title\_color=36BCF7\&text\_color=FFFFFF" alt="Top Languages"/\>
 
-</td>
-</tr>
-</table>
+\</td\>
+\</tr\>
+\</table\>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Stenishh&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=00A36C&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+\<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Stenishh\&theme=react-dark\&hide\_border=true\&area=true\&bg\_color=0D1117\&color=36BCF7\&line=00A36C\&point=FFFFFF" alt="Contribution Graph"/\>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Stenishh&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=36BCF7&line=00A36C&point=FFFFFF" alt="Contribution Graph"/>
+\</div\>
 
-</div>
+-----
 
----
+## 🎯 2026 Mission Progress
 
-## 🏆 Achievements Unlocked
+\<div align="center"\>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Stenishh&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🎯 2024 Mission Progress
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
+\<table\>
+\<tr\>
+\<td width="50%" valign="top"\>
 
 ### 🏆 Main Goals
 
 <br>
 
-**Sistema Anti-Quedas Hospitalares**
-<img src="https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=00A36C" />
-<sub>🔥 85% - Fase de testes avançados</sub>
+**Aprofundar Stack de Data Engineering**
+\<img src="https://www.google.com/search?q=https://geps.dev/progress/80%3FdangerColor%3D800000%26warningColor%3Dff9900%26successColor%3D00A36C" /\>
+\<sub\>🔥 80% - Atuando como Trainee com Spark/Databricks\</sub\>
 
 <br><br>
 
-**Dominar Machine Learning & AI**
-<img src="https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=36BCF7" />
-<sub>📚 65% - Estudando Deep Learning</sub>
+**Machine Learning em Saúde (IC)**
+\<img src="https://www.google.com/search?q=https://geps.dev/progress/45%3FdangerColor%3D800000%26warningColor%3Dff9900%26successColor%3D36BCF7" /\>
+\<sub\>📚 45% - Desenvolvendo modelos preditivos\</sub\>
 
 <br><br>
 
-**Contribuições Open Source**
-<img src="https://geps.dev/progress/55?dangerColor=800000&warningColor=ff9900&successColor=9D4EDD" />
-<sub>🌟 55% - 12 PRs aceitos este ano</sub>
+\</td\>
+\<td width="50%" valign="top"\>
 
-<br><br>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Tech Skills
+### 🚀 Projects & Events
 
 <br>
 
-**Cloud Computing (AWS/Azure)**
-<img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=FF6B35" />
-<sub>☁️ 75% - Certificações em andamento</sub>
+**Apresentação na FETIN 2026**
+\<img src="https://www.google.com/search?q=https://geps.dev/progress/85%3FdangerColor%3D800000%26warningColor%3Dff9900%26successColor%3DFF6B35" /\>
+\<sub\>⚙️ 85% - Protótipo do Risco de Queda testado\</sub\>
 
 <br><br>
 
-**Clean Code & Best Practices**
-<img src="https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=06FFA5" />
-<sub>✨ 90% - Refatoração constante</sub>
+**Impacto na Comunidade (Casa Viva)**
+\<img src="https://www.google.com/search?q=https://geps.dev/progress/95%3FdangerColor%3D800000%26warningColor%3Dff9900%26successColor%3D00D9FF" /\>
+\<sub\>🌟 95% - Aulas ativas de Python e Inglês\</sub\>
 
 <br><br>
 
-**IoT & Embedded Systems**
-<img src="https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=00D9FF" />
-<sub>⚡ 80% - Projetos em produção</sub>
+\</td\>
+\</tr\>
+\</table\>
 
-<br><br>
+\</div\>
 
-</td>
-</tr>
-</table>
-
-### 📈 Overall Year Progress
-
-<img src="https://geps.dev/progress/75" width="60%" />
-
-**75% Complete** • *Em ritmo acelerado para 2025!* 🚀
-
-</div>
-
----
-
-## 💡 Citação Random de Dev
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
+-----
 
 ## 🎵 Spotify - Codando com Estilo
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xtbswvcgo2evpqenbt47whsviq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing"/>
-</div>
+\<div align="center"\>
+\<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xtbswvcgo2evpqenbt47whsviq\&cover\_image=true\&theme=novatorem\&show\_offline=false\&background\_color=121212\&interchange=false\&bar\_color=53b14f\&bar\_color\_cover=false" alt="Spotify Playing"/\>
+<br>
+\<sub\>\<i\>Do trap caipira ao forró enquanto os pipelines rodam\! 🤠🎹\</i\>\</sub\>
+\</div\>
 
----
+-----
 
 ## 🤝 Let's Connect & Collaborate
 
-<div align="center">
+\<div align="center"\>
 
 ### 💼 Open For
 
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/color/96/000000/source-code.png" width="48"/><br>
-  <b>Open Source</b><br>
-  <sub>Contribuições</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/color/96/000000/handshake.png" width="48"/><br>
-  <b>Colaborações</b><br>
-  <sub>Projetos Tech</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/color/96/000000/innovation.png" width="48"/><br>
-  <b>Inovação</b><br>
-  <sub>HealthTech & IoT</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/color/96/000000/coffee-to-go.png" width="48"/><br>
-  <b>Coffee Chat</b><br>
-  <sub>Tech Talk</sub>
-</td>
-</tr>
-</table>
+\<table\>
+\<tr\>
+\<td align="center" width="25%"\>
+\<img src="https://www.google.com/search?q=https://img.icons8.com/color/96/000000/business-network.png" width="48"/\><br>
+\<b\>Oportunidades\</b\><br>
+\<sub\>FinTech & RetailTech\</sub\>
+\</td\>
+\<td align="center" width="25%"\>
+\<img src="https://www.google.com/search?q=https://img.icons8.com/color/96/000000/network.png" width="48"/\><br>
+\<b\>Networking\</b\><br>
+\<sub\>Data Community\</sub\>
+\</td\>
+\<td align="center" width="25%"\>
+\<img src="https://img.icons8.com/color/96/000000/innovation.png" width="48"/\><br>
+\<b\>Inovação\</b\><br>
+\<sub\>Startups & HealthTech\</sub\>
+\</td\>
+\<td align="center" width="25%"\>
+\<img src="https://img.icons8.com/color/96/000000/coffee-to-go.png" width="48"/\><br>
+\<b\>Coffee Chat\</b\><br>
+\<sub\>Tech Talk\</sub\>
+\</td\>
+\</tr\>
+\</table\>
 
 <br>
 
 ```javascript
 const stenish = {
-  disponivel_para: ["Freelance", "Colaborações", "Mentoria", "Open Source"],
-  interesses: ["IoT", "HealthTech", "AI/ML", "Full Stack", "Cloud"],
+  atual_foco: ["Data Engineering", "Machine Learning", "IoT", "Fullstack"],
+  setores_de_interesse: ["HealthTech", "FinTech", "RetailTech", "Startups"],
   contato: {
     linkedin: "fernandopuebla",
-    email: "via_linkedin",
+    email: "SEU_EMAIL_AQUI@email.com", // ⚠️ Não esqueça de atualizar!
     resposta: "< 24h"
   },
-  cafe: "☕ Sempre aceito!"
+  combustivel_dev: "Muito frango, ovos e café! 🍗☕"
 };
 ```
 
@@ -352,38 +294,37 @@ const stenish = {
 
 ### 📬 Reach Me
 
-<a href="https://www.linkedin.com/in/fernandopuebla/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:seu-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-</a>
+\<a href="https://www.linkedin.com/in/fernandopuebla/"\>
+\<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white" alt="LinkedIn"\>
+\</a\>
+\<a href="mailto:SEU\_EMAIL\_AQUI@email.com"\>
+\<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Email"\>
+\</a\>
+\<a href="\#"\>
+\<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white" alt="Portfolio"\>
+\</a\>
 
-</div>
+\</div\>
 
----
+-----
 
-<div align="center">
+\<div align="center"\>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+\<img src="https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,12,20\&height=120\&section=footer\&text=Obrigado%20pela%20visita\!\&fontSize=30\&fontColor=fff\&animation=twinkling" width="100%"/\>
 
 ### 💭 "The only way to do great work is to love what you do." - Steve Jobs
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Stenishh&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Stenishh?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/Stenishh?label=STARS&style=for-the-badge&color=yellow&logo=github" alt="GitHub stars"/>
+\<img src="https://komarev.com/ghpvc/?username=Stenishh\&color=blueviolet\&style=for-the-badge\&label=PROFILE+VIEWS" alt="Profile views"/\>
+\<img src="https://img.shields.io/github/followers/Stenishh?label=FOLLOWERS\&style=for-the-badge\&color=blue\&logo=github" alt="GitHub followers"/\>
+\<img src="https://img.shields.io/github/stars/Stenishh?label=STARS\&style=for-the-badge\&color=yellow\&logo=github" alt="GitHub stars"/\>
 
 <br><br>
 
-<sub>⚡ Desenvolvido com 💖, ☕ e muitas linhas de código</sub>
-<br>
-<sub>🌟 Se você chegou até aqui, considere deixar uma ⭐ nos repositórios!</sub>
-<br><br>
-<sub>🚀 "Código não é apenas sobre fazer funcionar, é sobre fazer a diferença"</sub>
+\<sub\>⚡ Desenvolvido com 💖, ☕ e pipelines de dados eficientes\</sub\>
 
-</div>
+\</div\>
+
+```
+```
