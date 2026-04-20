@@ -43,9 +43,9 @@ const stenish = {
   focus: "Data Engineering, HealthTech & IoT",
   
   hobbies: [
-    "🤠 Compositor de Trap Caipira & Forró",
-    "🕺 Acompanhar trends e coreografias",
-    "💪 Treino pesado (movido a muita proteína)"
+    " Amante de Pokemon TCG",
+    " Ir em shows/festivais ",
+    " Treino pesado "
   ],
   
   mindset: [
